@@ -1,0 +1,31 @@
+.body_background {
+    background-image: url("maths.jpg");
+}
+h3 {
+    color: white;
+}
+#number1, #number2 {
+    width: 700px;
+    border-radius: 6px;
+}
+#btn_send {
+    width: 400px;
+}
+#score {
+    background-color:tomato;
+	text-align: left;
+	float: left;
+	width: 100px;
+	color: white;
+	border-radius:20px;
+	margin-top: 20px;
+	left: 0;
+}
+#output {
+	background: white;
+	border-radius: 10px;
+	border-top: 10px solid #AA4465;
+	padding: 10px;
+	float: none;
+	text-align: left;
+}
